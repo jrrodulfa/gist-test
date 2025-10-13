@@ -1,0 +1,21 @@
+{
+  "title": "Test",
+  "description": "",
+  "artist": "Test",
+  "author": "Test",
+  "cover": "https://mangadex.org/covers/e1e38166-20e4-4468-9370-187f985c550e/39e4f1b9-9bb2-41c3-840d-d7208432830b.jpg",
+  "chapters": {
+    "165": {
+      "title": "165",
+      "volume": "1",
+      "last_updated": "1760327510",
+      "groups": {
+        "Test": [
+          "https://files.catbox.moe/h4zrus.png",
+          "https://files.catbox.moe/jgrwu3.png",
+          "https://files.catbox.moe/3vix1b.png"
+        ]
+      }
+    }
+  }
+}
